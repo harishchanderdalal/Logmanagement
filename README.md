@@ -52,5 +52,4 @@ docker run -d --name grafana -p 3000:3000 --name grafana grafana/grafana:6.5.0
 
 License
 ----
-PAYTM
-**Free Open Source, SRE P+ Team**
+harish.chander@hotmail.com
